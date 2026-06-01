@@ -15,12 +15,16 @@ Estudante de Gestão de Tecnologia da Informação com foco em garantir a qualid
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 🚀 Tecnologias e Ferramentas
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Josalison&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de José Alison" height="150px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josalison&layout=compact&theme=dracula" alt="Linguagens mais usadas" height="150px"/>
-</p>
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</div>
 
 ---
 
