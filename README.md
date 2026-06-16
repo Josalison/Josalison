@@ -40,7 +40,7 @@ Automação de testes de API REST usando Python, Pytest e Google Gemini AI.
 - ✅ Requisições HTTP com Requests
 - ✅ Boas práticas com Git e GitHub
 
-🔗 [Ver projeto][(https://github.com/Josalison/projeto_teste)](https://github.com/Josalison/teste_api_em_andamento)
+🔗 [Ver projeto](https://github.com/Josalison/projeto_teste)
 
 ---
 
