@@ -1,46 +1,43 @@
-# Olá, eu sou o José Alison! 👋
+# José Alison Vitorino Amorim
 
-### Analista de Qualidade de Software (QA) Functional & Automation
+### Analytics Engineer & Data Analyst
 
-Estudante de Gestão de Tecnologia da Informação com foco em garantir a qualidade de software, integrando regras de negócio, testes rigorosos e automação de processos. Tenho experiência com testes funcionais, de regressão, APIs e validação de dados em ambientes onde a tolerância a falhas é zero.
+Profissional focado em Gestão de Tecnologia da Informação, com especialidade no desenvolvimento de pipelines de ETL (Extração, Transformação e Carga), automação de processos e inteligência de negócio. Experiência prática na construção de scripts robustos para consumo de APIs, tratamento de grandes volumes de dados com Python e modelagem de dashboards executivos focados em tomada de decisão.
 
 ---
 
 ## 🛠️ Minhas Competências & Tecnologias
 
-- **Processos de QA:** Testes Funcionais, Regressão, Exploratórios, Criação de Cenários e Casos de Teste (BDD / Gherkin).
-- **Automação & Ferramentas:** Playwright (Python), Pytest, Requests, Postman (Testes de APIs REST/SOAP).
-- **Inteligência Artificial:** Integração de IA Generativa (Google Gemini) em automação de testes.
-- **Banco de Dados:** SQL (Consultas, Joins e Validação de Dados).
-- **Metodologias:** Metodologias Ágeis (Scrum, Kanban) e gerenciamento de defeitos com Jira.
+- **Engenharia de Dados & ETL:** Construção de pipelines automatizados de extração (APIs REST/JSON), transformação de DataFrames e carga de dados estruturados.
+- **Análise & Data Storytelling:** Criação de relatórios executivos modernos e dinâmicos no Power BI utilizando boas práticas de design limpo e focado no negócio.
+- **Automação & Qualidade:** Desenvolvimento de scripts para automação, testes e validação de consistência de dados utilizando Python.
+- **Bancos de Dados:** Consultas estruturadas, Joins, modelagem relacional e manipulação de dados estruturados.
 
 ---
 
 ## 🚀 Tecnologias e Ferramentas
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=playwright&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Requests](https://img.shields.io/badge/Requests-2CA5E0?style=for-the-badge&logo=python&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ---
 
 ## 🚀 Projetos em Destaque
 
-### 🤖 Agente de Testes de API com IA
-Automação de testes de API REST usando Python, Pytest e Google Gemini AI.
-- ✅ Testes automatizados com Pytest
-- ✅ Integração com IA Generativa (Google Gemini)
-- ✅ Requisições HTTP com Requests
-- ✅ Boas práticas com Git e GitHub
+### 📊 E-Commerce Data Pipeline: ETL de API para Power BI
+Pipeline de dados completo (End-to-End) que automatiza o ciclo de vida dos dados desde a origem na API até a tomada de decisão no painel.
+- ✅ Extração dinâmica de dados em formato JSON de API REST pública usando Python (`Requests`).
+- ✅ Limpeza, transformação e modelagem de dados estruturados com a biblioteca `Pandas`.
+- ✅ Carga automatizada em formato `.csv` estruturado para consumo otimizado.
+- ✅ Dashboard executivo desenvolvido no `Power BI` aplicando técnicas avançadas de Data Storytelling e design limpo.
 
-<a href="https://github.com/Josalison/teste_api_em_andamento">🔗 Ver projeto</a>
+<a href="https://github.com/Josalison/pipeline-api-powerbi">🔗 Ver projeto</a>
 
 ---
 
