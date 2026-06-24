@@ -11,6 +11,7 @@ Profissional focado em Gestão de Tecnologia da Informação, com especialidade 
 - **Engenharia de Dados & ETL:** Construção de pipelines automatizados de extração (APIs REST/JSON), transformação de DataFrames e carga de dados estruturados.
 - **Análise & Data Storytelling:** Criação de relatórios executivos modernos e dinâmicos no Power BI utilizando boas práticas de design limpo e focado no negócio.
 - **Automação & Qualidade:** Desenvolvimento de scripts para automação, testes e validação de consistência de dados utilizando Python.
+- **Visualização de Dados Estatística:** Criação de gráficos analíticos e exploração de dados diretamente em código para identificação de padrões e insights.
 - **Bancos de Dados:** Consultas estruturadas, Joins, modelagem relacional e manipulação de dados estruturados.
 
 ---
@@ -20,6 +21,8 @@ Profissional focado em Gestão de Tecnologia da Informação, com especialidade 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-%234E7297.svg?style=for-the-badge&logo=SciPy&logoColor=white)
 ![Requests](https://img.shields.io/badge/Requests-2CA5E0?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
