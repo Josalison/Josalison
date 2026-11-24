@@ -1,49 +1,44 @@
 # José Alison Vitorino Amorim
 
-### Analytics Engineer & Data Analyst
+### Analista de Dados Júnior | SQL, Python e Power BI
 
-Profissional focado em Gestão de Tecnologia da Informação, com especialidade no desenvolvimento de pipelines de ETL (Extração, Transformação e Carga), automação de processos e inteligência de negócio. Experiência prática na construção de scripts robustos para consumo de APIs, tratamento de grandes volumes de dados com Python e modelagem de dashboards executivos focados em tomada de decisão.
-
----
-
-## 🛠️ Minhas Competências & Tecnologias
-
-- **Engenharia de Dados & ETL:** Construção de pipelines automatizados de extração (APIs REST/JSON), transformação de DataFrames e carga de dados estruturados.
-- **Análise & Data Storytelling:** Criação de relatórios executivos modernos e dinâmicos no Power BI utilizando boas práticas de design limpo e focado no negócio.
-- **Automação & Qualidade:** Desenvolvimento de scripts para automação, testes e validação de consistência de dados utilizando Python.
-- **Visualização de Dados Estatística:** Criação de gráficos analíticos e exploração de dados diretamente em código para identificação de padrões e insights.
-- **Bancos de Dados:** Consultas estruturadas, Joins, modelagem relacional e manipulação de dados estruturados.
+Analista de dados em Minas Gerais. Atuo na FVN Consultoria com dados públicos de prefeituras (processos, contratos e licitações): trato e padronizo bases, crio sistemas de cadastro em Excel e construo indicadores em Power BI. Nos projetos pessoais, uso Python para automação, extração de dados e pipelines. Graduando em Gestão de Tecnologia da Informação.
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+## Ferramentas
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Seaborn](https://img.shields.io/badge/Seaborn-%234E7297.svg?style=for-the-badge&logo=SciPy&logoColor=white)
-![Requests](https://img.shields.io/badge/Requests-2CA5E0?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 🚀 Projetos em Destaque
+## Projetos em destaque
 
-### 📊 E-Commerce Data Pipeline: ETL de API para Power BI
-Pipeline de dados completo (End-to-End) que automatiza o ciclo de vida dos dados desde a origem na API até a tomada de decisão no painel.
-- ✅ Extração dinâmica de dados em formato JSON de API REST pública usando Python (`Requests`).
-- ✅ Limpeza, transformação e modelagem de dados estruturados com a biblioteca `Pandas`.
-- ✅ Carga automatizada em formato `.csv` estruturado para consumo otimizado.
-- ✅ Dashboard executivo desenvolvido no `Power BI` aplicando técnicas avançadas de Data Storytelling e design limpo.
+### 1. Monitor de Vagas Júnior com Telegram
+Script em Python que coleta vagas em um site de RH, usa IA para avaliar se são de nível júnior e envia as selecionadas ao Telegram. Execução automatizada com GitHub Actions (CI/CD).
+[Ver projeto](https://github.com/Josalison/job-bot-junior)
 
-<a href="https://github.com/Josalison/pipeline-api-powerbi">🔗 Ver projeto</a>
+### 2. Books to Scrape - Pipeline ETL Incremental
+Este repositório contém uma solução completa de Engenharia de Dados que realiza a extração, armazenamento e geração de relatórios de dados de livros utilizando Python, SQLite, Pandas e GitHub Actions.
+[Ver projeto](https://github.com/Josalison/python-etl-pipeline)
+
+### 3. Automação, Processamento de Dados e Monitoramento de Segurança
+O sistema simula a coleta de logs de catracas/acessos, processa e valida regras de risco em Python, armazena os registros em um banco de dados relacional e disponibiliza um painel interativo para análise de incidentes.
+[Ver projeto](https://github.com/Josalison/python-etl-pipeline)
+
+### 4. Dashboard SAC Power BI
+<img width="1335" height="747" alt="image" src="https://github.com/user-attachments/assets/7ff4d3be-c099-47ca-b948-14e41ae49dee" />
+
 
 ---
 
-## 🤝 Vamos nos conectar?
+## Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josalison-qa/)
+[LinkedIn](https://www.linkedin.com/in/josalison-dev-python/) | josalison.vit@gmail.com
